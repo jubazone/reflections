@@ -10,5 +10,5 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 	R = First commnad git log display a list when identify id for specific commit and id the previous commit a need in the commmand git diff, because git diff need a id new commit and id old commit = git diff #id_new_commit #id_old_or_previous_commit
 
-
+Now that you have your workspace set up, what do you want to try using Git for?
 
